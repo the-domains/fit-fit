@@ -6,9 +6,9 @@ color:
   saturation: 0.04028211557306349
   rhythmicContrast: 0.24347213632427156
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Fit Fit
