@@ -1,16 +1,16 @@
-typography_spectrum: 0.4947415669448674
+typography_spectrum: 0.2598022031597793
 color:
-  brandStrength: 0.26133340829983354
-  lightness: 0.7721587691921741
-  saturation: 0.04028211557306349
-  rhythmicContrast: 0.24347213632427156
+  brandStrength: 0.16437972127459943
+  lightness: 0.6206672661937773
+  saturation: 0.6622820408083498
+  rhythmicContrast: 0.02906516962684691
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.6409554823767394
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.14510150183923542
 name: Fit Fit
 title: Fit Fit
 description: 'Fitness, health and love'
