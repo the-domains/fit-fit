@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fit Fit]]></title>
         <description><![CDATA[Fit Fit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fit-fit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 11:51:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 11:57:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fit-fit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c55920a-93c6-43c7-abff-925877f6380a.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c55920a-93c6-43c7-abff-925877f6380a.jpg" alt="This is hot we do">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c55920a-93c6-43c7-abff-925877f6380a.jpg</link>
             <guid isPermaLink="false">a9353a2b-f922-4756-988a-49d091817e1c</guid>
-            <pubDate>Fri, 05 Aug 2016 11:51:31 GMT</pubDate>
+            <pubDate>Fri, 05 Aug 2016 11:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
